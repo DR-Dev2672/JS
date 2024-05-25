@@ -239,6 +239,7 @@ function lose() {
 function winGame() {
   update(locations[6]);
 }
+const xdf;
 
 function restart() {
   xp = 0;
